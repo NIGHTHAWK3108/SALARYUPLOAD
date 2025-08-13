@@ -1,0 +1,34 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Salary Uploader",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zsalaryuploader"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_3A88A72B58036BBC892761C6E52323430A6990B7_TM",
+    "semanticObject": "ZSALARY_UPLODER",
+    "action": "Display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_3A88A72B58036BBC892761C6E52323430A6990B7_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Salary Uploader",
+        "subtitle": "FICO"
+      }
+    }
+  ]
+}
